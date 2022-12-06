@@ -1,0 +1,20 @@
+Please sort into the correct category! If a word doesn't fit into any categories, do not add it!
+Also, please capitalize all of them, like Happy, not HAPPY or happy.
+If your word gets removed, either it was put into the list or it was rejected. Please do not add it back.
+
+ADJECTIVES:
+Funny
+Gabby
+Gainful
+Gamy
+Gaping
+Giving
+Gifted
+Giant
+Generous
+Good
+Golden
+Gross
+
+NOUNS:
+Cranberry
