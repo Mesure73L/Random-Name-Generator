@@ -57,5 +57,5 @@ adjectives = [
 ]
 
 nouns = [ # Currently A-F, places and holidays excluded
-  "Davis"
+  "RobotSlayer"
 ]
